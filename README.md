@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hougaoyi94
+- 👀 I’m interested in Software Engineering student specializing in Kotlin.
+- 🌱 Enthusiastic about Android development and innovative mobile apps.
